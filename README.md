@@ -29,7 +29,7 @@ ____
     
   Darknet이 OpenCV,CUDA 버전에 민감하고, 대부분의 코드가 Linux 커맨드이므로 Colab 사용을 권장드립니다.  
     
-  Yolo v3 custom Train 관련 한국어 튜토리얼을 찾기 힘들어 공유합니다.
+  Yolo v3 custom Training 관련 한국어 튜토리얼을 찾기 힘들어 공유합니다.
 ____  
   
 
