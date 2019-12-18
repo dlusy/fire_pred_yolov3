@@ -5,9 +5,9 @@
 
 
 <div>
-    <img src="./이미지1.png" width="30%" ,height = "100%">
-    <img src="./이미지2.png" width="30%" ,height = "100%">
-    <img src="./이미지3.png" width="30%" ,height = "100%">
+    <img src="description/이미지1.png" width="30%" ,height = "100%">
+    <img src="description/이미지2.png" width="30%" ,height = "100%">
+    <img src="description/이미지3.png" width="30%" ,height = "100%">
 </div>
 
 _____
