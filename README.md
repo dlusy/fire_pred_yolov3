@@ -2,11 +2,15 @@
 ### 국민대학교 2019 -2 팀팀Class( 인공지능 + CRM )의 일환으로 진행된 프로젝트 입니다. 
 ##### FBI ( Fire Briefly Inform ) 팀의 결과물 입니다.
 ###### darknet에 빌드되어 있는 yolo v3를 사용했습니다. https://github.com/AlexeyAB/darknet 
-[이미지 1]
-[이미지 2]
-[이미지 3]
 
-______ 
+
+<div>
+    <img src="./이미지1.png" width="30%" ,height = "100%">
+    <img src="./이미지2.png" width="30%" ,height = "100%">
+    <img src="./이미지3.png" width="30%" ,height = "100%">
+</div>
+
+_____
     
 #### 1) 목표
     - CCTV를 이용한 화재 조기 검출을 통한 공공 안전 증진
