@@ -15,7 +15,7 @@ _____
 #### 1) 목표
     - CCTV를 이용한 화재 조기 검출을 통한 공공 안전 증진
 ___  
-#### 2) 사용한 DataSet -----> [FBI_Dataset](https://drive.google.com/file/d/1bT6jGRyNnqoaQTD5v4mcEDshRB2NkBQY/view?usp=sharing)
+#### 2) 사용한 DataSet -----> [FBI_Dataset](https://drive.google.com/drive/folders/18XdaSXy1fpRShrVdex5ZqOESjGOw6PeH)
       
    직접 유튜브나, 구글검색을 통해 데이터를 모아 라벨링 (Bound Box) 작업을 한 데이터 입니다.    
      
