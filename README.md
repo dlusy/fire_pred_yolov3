@@ -25,11 +25,10 @@ ____
   
   화재 관련 Decection 을 할 때 유용하게 사용 가능합니다.
 ____  
-#### 4) 사용한 Notebook -----> [Yolo_v3_custom Train 한국어 튜토리얼](https://colab.research.google.com/drive/14QiNQNBXXcsViFZ6MEhFSLQ62GZmMivR)
+#### 4) 사용한 Notebook -----> [Yolo_v3_custom Train 한국어](https://colab.research.google.com/drive/14QiNQNBXXcsViFZ6MEhFSLQ62GZmMivR)
     
-  Darknet이 OpenCV,CUDA 버전에 민감하고, 대부분의 코드가 Linux 커맨드이므로 Colab 사용을 권장드립니다.  
-    
-  Yolo v3 custom Training 관련 한국어 튜토리얼을 찾기 힘들어 공유합니다.
+ Colab 사용을 권장드립니다.    
+ Yolo v3 custom Training 관련 한국어 튜토리얼을 찾기 힘들어 만들어 공유합니다.
 ____  
   
 
